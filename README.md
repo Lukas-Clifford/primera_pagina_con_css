@@ -1,4 +1,4 @@
-# primera_pagina_con_css
+# Primera página con css
 Actividad de clase de hacer una página con css. Teniamos que copiar una página de un pdf. Algo sencillo.
 
 ### Página que teniamos que copiar
